@@ -1,2 +1,2 @@
 member,git_author_name,git_email,role,modules_files,commit_shas,evidence_note,presenter
-Tran Anh Tung,Tung Tran,trananhtung11062004@gmail.com,Lead / Integrator + Core algorithm,"src/pipeline.py; src/baseline_t02.py; configs/lab.yaml; demo/; reports/",,"Implemented the offline T02 PoC, baseline, reviewer workflow, tests, report and demo deck",Có
+Tran Anh Tung,Tung Tran,trananhtung11062004@gmail.com,Lead / Integrator + Core algorithm,"src/pipeline.py; src/baseline_t02.py; configs/lab.yaml; demo/; reports/",2975845,"Implemented the offline T02 PoC, baseline, reviewer workflow, tests, report and demo deck",Có
