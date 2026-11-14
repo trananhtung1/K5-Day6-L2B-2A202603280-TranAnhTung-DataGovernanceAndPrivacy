@@ -12,8 +12,8 @@
 | Challenge | T02 · Raw QC Triage |
 | Thành viên (1) + vai trò | Tran Anh Tung — Lead/Integrator, data & fixtures, core algorithm, QA/metric, human review, report + demo. Làm một mình do không tham dự buổi lab; khai báo minh bạch thay vì tạo thành viên giả. |
 | Git URL | https://github.com/trananhtung1/K5-Day6-L2B-2A202603280-TranAnhTung-DataGovernanceAndPrivacy |
-| Tag `demo-180m` (commit) | **Tạo sau khi demo freeze** |
-| Tag `final-24h` (commit) | **Tạo ngay trước khi nộp** |
+| Tag `demo-180m` (commit) | Không tạo retrospective tag: bài được hoàn thiện sau buổi lab; không tuyên bố demo 180 phút. |
+| Tag `final-24h` (commit) | `final-24h` — published on GitHub; trỏ đến commit nộp cuối. |
 | Deadline (giờ VN) | 14:00, 15/11/2026 (suy ra từ mốc 14:00 ngày 14/11 +24h; cần đối chiếu thông báo lớp nếu có). |
 
 ## 01 · Problem statement
