@@ -10,11 +10,11 @@
 |---|---|
 | Group ID | G05 |
 | Challenge | T02 · Raw QC Triage |
-| Thành viên (5–6) + vai trò | Tran Anh Tung (Lead/Integrator + core algorithm); bổ sung các thành viên/role còn lại trước khi nộp. |
+| Thành viên (1) + vai trò | Tran Anh Tung — Lead/Integrator, data & fixtures, core algorithm, QA/metric, human review, report + demo. Làm một mình do không tham dự buổi lab; khai báo minh bạch thay vì tạo thành viên giả. |
 | Git URL | https://github.com/trananhtung1/K5-Day6-L2B-2A202603280-TranAnhTung-DataGovernanceAndPrivacy |
 | Tag `demo-180m` (commit) | **Tạo sau khi demo freeze** |
 | Tag `final-24h` (commit) | **Tạo ngay trước khi nộp** |
-| Deadline (giờ VN) | +24 giờ từ lúc kết thúc lab; hỏi giảng viên mốc giờ tuyệt đối. |
+| Deadline (giờ VN) | 14:00, 15/11/2026 (suy ra từ mốc 14:00 ngày 14/11 +24h; cần đối chiếu thông báo lớp nếu có). |
 
 ## 01 · Problem statement
 
@@ -109,12 +109,7 @@ pytest -q
 
 | Học viên | Git author/email | Module / vai trò | Commit SHA / diff chứng minh | Trình bày? |
 |---|---|---|---|---|
-| Member 1 | | Integration / CLI | | |
-| Member 2 | | Data + GT | | |
-| Member 3 | | Core algorithm | | |
-| Member 4 | | Metric + tests | | |
-| Member 5 | | Review queue + report | | |
-| Member 6 (nếu có) | | Research / ablation / debate | | |
+| Tran Anh Tung | Tung Tran / trananhtung11062004@gmail.com | Integration, data, algorithm, QA, review, report + demo | `2975845` (implementation); `fadc655` (contribution evidence) | Có |
 
 ## 11 · References
 
